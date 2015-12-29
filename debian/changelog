@@ -1,3 +1,9 @@
+openssl (1.0.2e-1+maemo) unstable; urgency=medium
+
+  * Patch debian/ files to package for maemo
+
+ -- Alvaro G. M. <alvaro.gamez@hazent.com>  Tue, 29 Dec 2015 11:13:54 +0100
+
 openssl (1.0.2e-1) unstable; urgency=high
 
   * New upstream release
